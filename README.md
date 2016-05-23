@@ -11,7 +11,7 @@ The official package (from _tpettersen_) is available on [npm](https://www.npmjs
 - Run `npm install -g`
 
 ## Usage
-	bitbucket-snippet [options] <file>
+	snippet [options] <file>
 	
 	Options:
 
