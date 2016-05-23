@@ -1,0 +1,35 @@
+{
+  "name": "bitbucket-snippet",
+  "version": "1.0.0",
+  "description": "A command-line tool for creating BitBucket snippets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bitbucket",
+    "snippet"
+  ],
+  "author": "Helton Carlos de Souza",
+  "license": "MIT",
+  "bin": {
+    "snippet": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.9.0",
+    "progress": "^1.1.8",
+    "superagent": "^2.0.0-alpha.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helton/bitbucket-snippet.git"
+  },
+  "bugs": {
+    "url": "https://github.com/helton/bitbucket-snippet/issues"
+  },
+  "homepage": "https://github.com/helton/bitbucket-snippet#readme"
+}
