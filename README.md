@@ -11,9 +11,9 @@ The official package (from _tpettersen_) is available on [npm](https://www.npmjs
 - Run `npm install -g`
 
 ## Usage
-  bitbucket-snippet [options] <file>
-  
-  Options:
+	bitbucket-snippet [options] <file>
+	
+	Options:
 
     -h, --help                 output usage information
     -u, --username <username>  The user to authenticate as
